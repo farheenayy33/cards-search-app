@@ -1,0 +1,39 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+  <meta charset="utf-8" />
+  <meta name="viewport" content="width=device-width,initial-scale=1" />
+  <title>People Professional Cards search</title>
+  <link rel="stylesheet" href="style.css" />
+</head>
+
+<body>
+  <header>
+    <h1>People Cards</h1>
+  </header>
+  <div class="toolbar" role="region" aria-label="Search   toolbar">
+    <form class="search-form" id="searchForm" role="search" onsubmit="return false;">
+      <label for="searchInput" class="sr-only">Search people</label>
+      <input id="searchInput" type="search" inputmode="search" placeholder="Search by name, role or bio…"
+        aria-label="Search people" autocomplete="off" />
+    </form>
+    <div class="meta" id="resultMeta" aria-live="polite">9 results</div>
+  </div>
+  <main class="cardsbox" id="cardsContainer" aria-live="polite"></main>
+  <template id="cardTpl">
+    <article class="card">
+      <img class="photo" loading="lazy" alt="" />
+      <div class="card-body">
+        <div>
+          <div class="name"></div>
+          <div class="role"></div>
+        </div>
+        <p class="bio"></p>
+      </div>
+    </article>
+  </template>
+  <script src="script.js"></script>
+</body>
+
+</html>
