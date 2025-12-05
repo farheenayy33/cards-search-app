@@ -7,8 +7,7 @@ Designed with a focus on clean UI, efficient DOM rendering, and smooth search ex
 
 ## 🔗 Live Demo
 
-👉 **View the App:** [Live Demo Link](https://your-live-demo-link.com)  
-*(Replace this URL with your GitHub Pages link after deployment)*
+👉 **View the App:** [Live Demo Link](https://farheenayy33.github.io/cards-search-app/)  
 
 ---
 
