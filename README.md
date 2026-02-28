@@ -1,7 +1,7 @@
 # 🔎 cards-search-app
 
-A fast, responsive, and minimal **profile cards search interface** built using **HTML, CSS, and Vanilla JavaScript**.  
-Designed with a focus on clean UI, efficient DOM rendering, and smooth search experience for small-to-medium datasets.
+A fast, responsive, and minimal **profile cards search interface** build with **HTML, CSS, and Vanilla JavaScript**.  
+Focus on clean UI, efficient DOM rendering, and smooth search experience for small-to-medium datasets.
 
 ---
 
