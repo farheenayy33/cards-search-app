@@ -126,6 +126,6 @@ This project is licensed under the **MIT License**.
 
 ## 👩‍💻 Author
 
-<p align="center bold" >**Farheen Laraib**</p>  
+<h1 align="center bold" >**Farheen Laraib**</h1>  
 
-<p align="center bold" >**Frontend Developer**</p>  
+<h2 align="center bold" >**Frontend Developer**</h2>  
