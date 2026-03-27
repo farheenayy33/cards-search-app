@@ -34,7 +34,8 @@ The app is intentionally lightweight and framework-free, making it easy to integ
 - **Keyboard navigation** (arrow keys)  
 - **Responsive card grid**  
 - **Accessible structure** (`aria-live`, `tabindex`, focus states)  
-- **Lazy-loaded images** for improved performance  
+- **Lazy-loaded images** for improved performance 
+- **Resposives images from picsum.com 
 
 ---
 
