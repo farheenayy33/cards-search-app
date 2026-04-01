@@ -1,4 +1,3 @@
-
 const users = [
   {
     name: "Farheen Laraib",
@@ -193,8 +192,6 @@ function highlightMatches(text, query) {
   return text.replace(regex, '<span class="match">$1</span>');
 }
 
-
-
 /**
  * Creates a card DOM node for a person
  * @param {Object} person - Person object with name, role, bio, img
@@ -259,7 +256,6 @@ function renderList(list, query = "") {
   grid.appendChild(frag);
   DOM.cardsContainer.appendChild(grid);
 }
-
 
 /**
  * Filters users based on search query
